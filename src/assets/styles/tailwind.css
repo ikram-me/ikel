@@ -689,6 +689,9 @@ video {
 .bg-gradient-to-tr{
 	background-image: linear-gradient(to top right, var(--tw-gradient-stops));
 }
+.p-2{
+	padding: 0.5rem;
+}
 .py-6{
 	padding-top: 1.5rem;
 	padding-bottom: 1.5rem;
@@ -729,6 +732,10 @@ video {
 	padding-top: 0.75rem;
 	padding-bottom: 0.75rem;
 }
+.py-1{
+	padding-top: 0.25rem;
+	padding-bottom: 0.25rem;
+}
 .pb-4{
 	padding-bottom: 1rem;
 }
@@ -743,6 +750,9 @@ video {
 }
 .text-center{
 	text-align: center;
+}
+.align-middle{
+	vertical-align: middle;
 }
 .text-sm{
 	font-size: 0.875rem;
